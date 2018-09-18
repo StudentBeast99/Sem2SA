@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\people\ShepilovA\sem2\Stack\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\ShepilovA\sem2\Stack\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\ShepilovA\sem2\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\ShepilovA\sem2\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\ShepilovA\sem2\Stack\obj\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\ShepilovA\sem2\Stack\obj\Debug\Tools.pdb
+C:\Users\пк\Desktop\sem2SA-master\Stack\bin\Debug\Tools.dll
+C:\Users\пк\Desktop\sem2SA-master\Stack\bin\Debug\Tools.pdb
+C:\Users\пк\Desktop\sem2SA-master\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\пк\Desktop\sem2SA-master\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\sem2SA-master\Stack\obj\Debug\Tools.dll
+C:\Users\пк\Desktop\sem2SA-master\Stack\obj\Debug\Tools.pdb
